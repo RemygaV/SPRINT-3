@@ -1,0 +1,14 @@
+    * {
+        margin: 0;
+    }
+    
+    img {
+        width: 175px;
+        height: 175px;
+        margin: auto;
+    }
+    
+    .sales {
+        width: 70px;
+        height: 70px;
+    }
